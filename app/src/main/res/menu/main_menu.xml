@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/dots"
+        android:icon="@drawable/ic_icon"
+        android:title="TODO"
+        app:showAsAction="ifRoom">
+
+        <menu>
+            <!--item android:id="@+id/addTrainee"
+                android:title="Add Trainee" /-->
+            <!--item android:id="@+id/sendSms"
+                android:title="Send SMS" /-->
+            <item android:id="@+id/logout"
+                android:title="Log out" />
+
+        </menu>
+
+    </item>
+
+</menu>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/drawable/custom_button.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/drawable/edittextstyle.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/drawable/ic_icon.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/drawable/image.xml" value="0.1" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/drawable/my_border.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/layout/details_drivers.xml" value="0.1796875" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/layout/drivers.xml" value="0.1796875" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/layout/frag_letsgo.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/layout/login.xml" value="0.1796875" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/layout/more_details.xml" value="0.1796875" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/layout/ride.xml" value="0.1796875" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/layout/search_ride.xml" value="0.1796875" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/layout/select_photo.xml" value="0.1796875" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/layout/signin.xml" value="0.22" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/layout/signin1.xml" value="0.1796875" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/layout/stam.xml" value="0.1796875" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/layout/user_login.xml" value="0.25" />
+        <entry key="..\:/Users/shani/AndroidStudioProjects/LetsGo/app/src/main/res/menu/main_menu.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

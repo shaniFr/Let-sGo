@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/driverImage2"
+        android:layout_width="186dp"
+        android:layout_height="144dp"
+        app:layout_constraintBottom_toTopOf="@+id/detailsDriver"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/driver" />
+
+    <TextView
+        android:id="@+id/detailsDriver"
+        android:layout_width="419dp"
+        android:layout_height="485dp"
+        android:background="#EEF4EE"
+        android:fontFamily="casual"
+        android:padding="10dp"
+        android:text="TextView"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/selectBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/selectBtn"
+        android:layout_width="158dp"
+        android:layout_height="48dp"
+        android:background="@drawable/custom_button"
+        android:backgroundTint="@color/black"
+        android:fallbackLineSpacing="false"
+        android:fontFamily="@font/days_one"
+        android:hapticFeedbackEnabled="false"
+        android:text="@string/select"
+        android:textColor="#FDFDFD"
+        android:textColorHighlight="#0D4D70"
+        android:textColorLink="#358CCF"
+        android:textSize="20sp"
+        app:iconTint="#DCBBBB"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.13"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.948" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/backBtn"
+        android:layout_width="158dp"
+        android:layout_height="48dp"
+        android:background="@drawable/custom_button"
+        android:backgroundTint="@color/black"
+        android:fallbackLineSpacing="false"
+        android:fontFamily="@font/days_one"
+        android:hapticFeedbackEnabled="false"
+        android:text="@string/back"
+        android:textColor="#FDFDFD"
+        android:textColorHighlight="#0D4D70"
+        android:textColorLink="#358CCF"
+        android:textSize="20sp"
+        app:iconTint="#DCBBBB"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.936"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.948" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
